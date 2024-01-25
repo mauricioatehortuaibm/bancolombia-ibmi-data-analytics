@@ -37,7 +37,6 @@ ITC,Información Transaccional de Clientes,Servicios Transaccionales,33,24.00,13
 BLZ,Balanza Cambiaria,Core Banking,40,54.00,73,248,16.00
 EDM,Informes Ondemand,Servicios Transaversales a Otras Aplicaciones,14,16.00,87,240,5.00
 PRI,Protección de Información,Apoyo a la Administración y Operacion,108,65.00,164,229,47.00
-CRP,Criptografia,Servicios Transaversales a Otras Aplicaciones,14,38.00,36,227,6.00
 STF,Sistema de Transferencias Financieras STF,Apoyo Core Banking,53,36.00,145,220,24.00
 BVN,Endeudamiento,Apoyo Core Banking,1,0.00,187,203,0.00
 TDE,Efectivo Seguro (TDE),Apoyo Core Banking,72,67.00,106,187,38.00
