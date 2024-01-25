@@ -37,26 +37,3 @@ ITC,Información Transaccional de Clientes,Servicios Transaccionales,33,24.00,13
 BLZ,Balanza Cambiaria,Core Banking,40,54.00,73,248,16.00
 EDM,Informes Ondemand,Servicios Transaversales a Otras Aplicaciones,14,16.00,87,240,5.00
 PRI,Protección de Información,Apoyo a la Administración y Operacion,108,65.00,164,229,47.00
-STF,Sistema de Transferencias Financieras STF,Apoyo Core Banking,53,36.00,145,220,24.00
-BVN,Endeudamiento,Apoyo Core Banking,1,0.00,187,203,0.00
-TDE,Efectivo Seguro (TDE),Apoyo Core Banking,72,67.00,106,187,38.00
-TCB,Tarjetas de crédito Bancolombia - TCB,Apoyo Core Banking,48,65.00,73,164,29.00
-OPR,Programación y control de la producción,Apoyo a la Administración y Operacion,6,26.00,23,127,4.00
-REX,Remsas,Apoyo Core Banking,8,47.00,17,121,6.00
-DEP,Transaccionales Depositos,Core Banking,42,67.00,62,116,36.00
-TPV,TPV - Terminales en Punto de Venta POS,Apoyo Core Banking,1,11.00,9,90,1.00
-WSE,Módulo Seguridad Aplicaciones WEB,Servicios Transaversales a Otras Aplicaciones,15,16.00,89,89,16.00
-CHI,Credito Hipotecario,Apoyo Core Banking,6,50.00,12,85,7.00
-NDC,Notas Debito y Credito,Apoyo Core Banking,6,60.00,10,85,7.00
-NTC,Novedades Tarjeta Master Debit NTC,Apoyo Core Banking,2,20.00,10,62,3.00
-EDB,Interfaces sucursal virtual,Apoyo Servicios Transaccionales,3,27.00,11,61,4.00
-GTB,Estadisticas de consumo de procesadores,Servicios Transaversales a Otras Aplicaciones,2,15.00,13,42,4.00
-WEB,Transmisión de Archivos Corporativos TAC - Iseries,Servicios Transaversales a Otras Aplicaciones,14,48.00,29,34,41.00
-RDB,Procesos de conciliación y Cuadre con Redeban,Apoyo Core Banking,1,100.00,1,23,4.00
-CGP,Servidor Transaccional Consulta General Productos,Apoyo Servicios Transaccionales,2,100.00,2,17,11.00
-PDA,Servidor Transaccional Productos-Cuentas Depositos,Core Banking,1,100.00,1,12,8.00
-CDE,Canal Directo Empresarial,Servicios Transaccionales,125,79.00,157,263,47.00
-SUA,Componentes Transversales Seguridades,Servicios Transaversales a Otras Aplicaciones,4,23.00,17,69,5.00
-CBA,Corresponsales Bancarios-Transacciones con Tarjetas,Core Banking,141,87.00,161,604,23.00
-DTF,Servidor Datos Financieros de Cliente,Core Banking,1,100.00,1,2,50.00
-TVP,Tarjetas Vision Plus,Apoyo Core Banking,8,34.00,23,516,1.00
